@@ -93,6 +93,20 @@ Built an interactive dashboard with:
 * Fraud Transactions
 * Fraud Rate
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](images/executive_overview.png)
+
+### Fraud Monitoring
+![Fraud Monitoring](images/Fraud_Monitoring.png)
+
+### Risk Detection
+![Risk Detection](images/Risk_Detection.png)
+
+### Suspicious Accounts
+![Suspicious Accounts](images/Suspicious_Accounts.png)
+
 ### Key Insights
 
 * Fraud concentrated in TRANSFER and CASH_OUT
